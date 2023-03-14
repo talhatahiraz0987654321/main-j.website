@@ -1,0 +1,194 @@
+*{padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.mainpageheading{background-color: rgb(252, 224, 229);
+                 height: 40px;
+                 width: 100%;
+                 flex-wrap: wrap;
+                 
+}
+
+.mainpageheading h6{display: flex;
+                    justify-content: center;
+                    position: relative;
+                    top: 12px; 
+                    font-family: sans-serif;
+                    font-size: 11px;
+                    word-spacing: 1px;}
+
+.mainpageheading p{display: flex;
+                   justify-content: end;
+                   position: relative;
+                   left: -549px;
+                   top: 0px;
+                   font-size: 11px;
+                   font-family: Arial, Helvetica, sans-serif;}
+
+.welcomj {display: flex;
+          height: 40px;
+          background-color: rgb(247, 245, 245);}
+
+.welcomj p{display: flex;
+          flex-wrap: wrap;
+           justify-content: center;
+          position: relative;
+          left: -55px;
+          margin-left: 80px;
+           font-family: sans-serif;
+           font-size: 11px;
+           margin-top: 13px;}
+
+.options select{display: flex;
+               margin-left: 405px;
+               margin-top: -28px;
+               background-color: rgb(247, 245, 245);
+               border: none;
+               font-family: sans-serif;
+               font-size: 11px;}
+
+.options option{font-size: 13px;
+                background-color: white;}
+
+.pakistanflagimages{margin-left: 237px;
+                    margin-top: -14px;}
+
+.baskeimage img{display: flex;
+                margin-left: 1220px;
+                margin-top: -20px;
+                position: relative;
+                top: 2px;
+                transition: 0.1s ease-in-out;
+                
+              }
+
+.baskeimage img:hover{transition: 0.1s ease-in-out;
+                      cursor: pointer;}
+
+.serchlogo{display: flex;
+          justify-content: end;}
+
+.serchlogo button{width: 100px;
+                   border: none;
+                   background-color:rgb(247, 245, 245); 
+                  height: 32px;
+                  position: relative;
+                  font-family: sans-serif;
+                  letter-spacing: 0.5px;
+                  left: -6px;
+                  top: -22px;
+                  font-size: 11px;
+                  transition: 0.1s ease-in-out;}
+
+.serchlogo button:hover{transition: 0.1s ease-in-out;
+                        color: rgb(168, 168, 168);}
+
+.seacrhsign img{margin-left: 1220px;
+                position: relative;
+                top: -46px;
+                left: 29px;}
+
+.jlogo {display: flex;
+          justify-content: center;
+          margin-top: -6px;}
+
+.navlimks{display: flex;
+         justify-content: space-evenly;
+         margin-top: 35px;
+         font-size: 21px;
+         font-family: sans-serif;
+         letter-spacing: 0.5px;
+         position: relative;
+         margin-left: 40px;}
+
+.navlimks h6{font-weight: 100;
+             position: relative;
+             margin-left: -75px;}
+
+.imagesj {display: flex;
+          justify-content: center;
+          position: relative;}
+
+.productimage1{display: flex;
+               justify-content: center;
+               position: relative;
+               top: 90px;
+               left: -70px;}
+
+.productimage1 h6{display: flex;
+                  margin-top: 714px;
+                  position: relative;
+                  left: -611px;
+                  font-size: 18px;
+                  font-family: sans-serif;
+                  font-weight: 200;
+                  letter-spacing: 1px;}
+
+.productimage1 button{height: 30px;
+                      width: 100px;
+                       letter-spacing: 0.5px;
+                       font-family: sans-serif;
+                       font-weight: 600;
+                       font-size: 17px;
+                       position: relative;
+                       top: 736px;
+                       left: -714px;
+                       border: none;
+                       background-color: white;}
+
+.productimage2{display: flex;
+               justify-content: center;
+               position: relative;
+               margin-top: -645px;
+               margin-left: 750px;}
+
+.productimage2 h6{display: flex;
+                  margin-top: 337px;
+                  position: relative;
+                  left: -270px;
+                  font-size: 18px;
+                  font-family: sans-serif;
+                  font-weight: 200;
+                  letter-spacing: 1px;}
+
+.productimage2 button{height: 30px;
+                      width: 100px;
+                       letter-spacing: 0.5px;
+                       font-family: sans-serif;
+                       font-weight: 600;
+                       font-size: 17px;
+                       position: relative;
+                       top: 355px;
+                       left: -320px;
+                       border: none;
+                       background-color: white;}
+            
+.productimage3{display: flex;
+               justify-content: center;
+               position: relative;
+               margin-top: 22px;
+               margin-left: 780px;}
+
+.productimage3 h6{display: flex;
+                  margin-top: 335px;
+                  position: relative;
+                  left: -270px;
+                  font-size: 18px;
+                  font-family: sans-serif;
+                  font-weight: 200;
+                  letter-spacing: 1px;}
+
+
+.productimage3 button{height: 30px;
+                      width: 100px;
+                       letter-spacing: 0.5px;
+                       font-family: sans-serif;
+                       font-weight: 600;
+                       font-size: 17px;
+                       position: relative;
+                       top: 355px;
+                       left: -350px;
+                       border: none;
+                       background-color: white;}
+
